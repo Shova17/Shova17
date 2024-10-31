@@ -2,7 +2,7 @@
 
 <h1 align="center"> I'm Mohona Mohsin Shova</h1>
 <h3 align="center">Passionate CSE student, exploring the world of software engineering and coding one step at a time.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Shova17/Shova17/blob/main/yoriko-nikaidou.gif">
 
 <p align="left">
 </p>
