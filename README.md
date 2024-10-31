@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Shova17/Shova17/blob/main/Studio%20Ghibli.gif)](https://github.com/Shova17)
 
-<h1 align="center"> Hi 👋, I'm Mohona Mohsin Shova</h1>
+<h1 align="center"> Hi 👋, I'm Shova </h1>
 <h3 align="center">A CSE student exploring software engineering and development. Constantly learning, building and growing.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Shova17/Shova17/blob/main/yoriko-nikaidou.gif">
 
